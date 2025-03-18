@@ -11,7 +11,7 @@ Jenkins is an open-source, Java-based automation tool. This tool automates the s
 1. **Setup Jenkins Using Docker**: Learn how to set up Jenkins in a Docker container.
 2. **Set up a Job in Jenkins**: Connect Jenkins to your repository and build a C++ program (`hello.cpp`).
 3. **Run the Program**: Set up a second job to run the program after the build completes.
-4. **Add a Webhook Trigger**: Automate the execution of jobs in Jenkins by adding a webhook trigger to your GitHub repository.
+4. **Add a Webhook Trigger**: Automate the execution of jobs in Jenkins by adding a webhook trigger to your GitHub repository..
 5. **Create a Basic Jenkins Pipeline**: Understand the basics of Jenkins pipelines.
 
 ## Prerequisites
